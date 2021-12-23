@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 print("it's a second dev)
 pring("it's a second dev again")
 
+=======
+print("it's a second dev")
+print("it's a first dev")
+>>>>>>> 4f23c53ab126b3fb7e2d3987ab540edb52c7e2ca
