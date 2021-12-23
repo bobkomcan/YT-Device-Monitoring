@@ -1,1 +1,2 @@
-print("it's a second dev)
+print("it's a second dev")
+print("it's a first dev")
